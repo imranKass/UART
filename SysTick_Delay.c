@@ -11,7 +11,7 @@
  * as the clock source. The PIOSC provides 16 MHz which is then divided by 4. 
  * The timer is used for creating delays in either microseconds or milliseconds.
  *
- * @author Aaron Nanas
+ * 
  */
 
 #include "SysTick_Delay.h"
